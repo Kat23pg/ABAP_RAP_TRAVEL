@@ -1,0 +1,5 @@
+CLASS zbp_cl_booksuppl_log DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_travel_log.
+ENDCLASS.
+
+CLASS zbp_cl_booksuppl_log IMPLEMENTATION.
+ENDCLASS.
